@@ -7,3 +7,5 @@ Alur Pembuatan Arduino KIT
 5. Uji coba board ke salah satu customer
 6. Evaluasi board
 7. Cetak board trainer KIT final
+8. Desain Packaging yang menarik
+9. Sisipkan stiker dan gantungan kunci
