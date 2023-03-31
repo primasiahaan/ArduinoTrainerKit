@@ -1,0 +1,9 @@
+Alur Pembuatan Arduino KIT
+
+1. Cari contoh trainer KIT yang beredar dipasaran
+2. Tentukan komponen trainer KIT yang sesuai
+3. Buat desain board trainer KIT berdasarkan pada sensor-sensor yang digunakan
+4. Testing board 
+5. Uji coba board ke salah satu customer
+6. Evaluasi board
+7. Cetak board trainer KIT final
